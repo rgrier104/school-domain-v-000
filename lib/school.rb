@@ -19,5 +19,6 @@ class School
 
   def grade(grade)
     hash[grade]
+  end
 
 end
