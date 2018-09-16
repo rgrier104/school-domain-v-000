@@ -18,7 +18,7 @@ class School
   end
 
   def grade(grade)
-    hash[grade]
+    @roster[grade]
   end
 
 end
